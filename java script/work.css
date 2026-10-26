@@ -1,0 +1,29 @@
+*{margin:0;padding:0;box-sizing:border-box}
+
+nav{
+padding:20px;
+background:#0e3a49;
+color:white;
+}
+
+nav h2{display:inline}
+nav a{color:white;margin:15px;text-decoration:none}
+
+.hero{
+height:90vh;
+background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpA9AoV2LzNDe36y6u9nf6mHp-t2A531Iat0uxZ2DyDA&s=10)
+text-align:center;
+padding-top:200px;
+color:rgb(247, 244, 244);
+
+}
+
+h1{font-size:50px}
+.button{
+padding:12px 25px;
+background:#1e3e5c;
+color:white;
+border:0;
+ box-shadow: 0 4px 10px black;
+ cursor: pointer;
+}
